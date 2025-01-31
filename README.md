@@ -45,9 +45,6 @@ npm install
 node src/exercicio1/soma.js
 ```
 
-## 🧪 Testes
-
-Cada exercício possui seus próprios testes unitários implementados com Jest.
 
 ## 📝 Licença
 
