@@ -26,7 +26,6 @@ Programa que inverte os caracteres de uma string sem usar funções prontas.
 ## 🛠️ Tecnologias Utilizadas
 
 - JavaScript
-- Jest (para testes)
 - Node.js
 
 ## 📦 Como Executar
@@ -39,11 +38,6 @@ git clone https://github.com/Brunno-costa27/exercises.git
 2. Instale as dependências:
 ```bash
 npm install
-```
-
-3. Execute os testes:
-```bash
-npm test
 ```
 
 4. Execute cada exercício individualmente:
